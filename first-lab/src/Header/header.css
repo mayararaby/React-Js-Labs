@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+
+.container-fluid-header{
+    background-color: #f2b7bd;
+    font-family: 'Roboto Condensed', sans-serif 
+}
+.btnHeader{
+    margin: auto !important;
+    display: flex !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+.header-text
+{
+    color: #fff;
+}
+h1{
+    font-size: 4em !important;
+    font-weight: bold !important;
+}
+img{
+    display: flex;
+    margin: auto;
+    width: 100%;
+}

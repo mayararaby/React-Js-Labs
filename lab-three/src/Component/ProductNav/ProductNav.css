@@ -1,0 +1,9 @@
+a{
+    font-weight: bold !important;
+    color: black !important;
+    margin: 10px !important;
+}
+.active
+{
+    color: #dc3545 !important;
+}

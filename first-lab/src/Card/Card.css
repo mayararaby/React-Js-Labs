@@ -1,0 +1,17 @@
+.card
+{
+    height: 200px !important;
+    width: 300px !important;
+    line-height: 150px;
+    display: flex;
+    margin: auto;
+    font-weight: bold;
+    transition: box-shadow 400ms;
+}
+.card:hover{
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+.card-body
+{
+    text-decoration: underline;
+}

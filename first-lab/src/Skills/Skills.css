@@ -1,0 +1,12 @@
+.bg-skills{
+    background-color: #f2b7bd;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.skillsFocus{
+    text-decoration: underline;
+    margin-left: 20px;
+}
+ul{
+    list-style: none;
+    font-size: 1.5em;
+}
